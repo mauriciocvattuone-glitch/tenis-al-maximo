@@ -1,7 +1,7 @@
 /* Contenido aprobado por el usuario. Los testimonios son ejemplos de prueba. */
 window.TENNIS_CONFIG = {
   "brand": "Tenis al máximo",
-  "price": 12.9,
+  "price": 14.9,
   "currency": "EUR",
   "checkoutUrl": "https://pay.hotmart.com/M108053971W",
   "checkoutPlatform": "Hotmart",
